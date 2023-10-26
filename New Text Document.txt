@@ -1,0 +1,6 @@
+we make use of git bash in order to communicate with our fules
+
+first we have user touch index.html in order to create a file called index,html in the directory
+again we have used touch app.js to again createa a new file called app.js
+then  we need to initialize a local repo by git init. but keep in mind that, we cant see the created file
+you can go to view, foilder, and uchaecked hidden files
